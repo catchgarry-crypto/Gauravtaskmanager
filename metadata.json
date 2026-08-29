@@ -1,0 +1,6 @@
+{
+  "name": "Task & Timeline Manager",
+  "description": "Manage tasks with priorities, timelines, due date alerts, and a visual progress dashboard for completed assignments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
